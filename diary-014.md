@@ -1,5 +1,3 @@
-# Thoughts
-
 ## What lead me to this course?
 
 After having worked in the translation industry for over a decade, I've started to feel it would be nice to find 
