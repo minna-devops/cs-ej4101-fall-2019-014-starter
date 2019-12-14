@@ -1,6 +1,4 @@
-# My tiny website
-
-## About me
+# About me
 
 Hi there! And welcome to my little website created for Introduction to DevOps course at Aalto University. 
 I found the course through FiTech booth at Mimmit koodaa launch event. I stopped to talk to the nice people there and 
