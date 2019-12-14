@@ -2,7 +2,7 @@
 
 Hi there! And welcome to my tiny website created for Introduction to DevOps course at Aalto University. 
 
-![DevOps image by Dirk Wouters from Pixabay](devops-image.png)*
+![DevOps cycle](devops-image.png "Image by Dirk Wouters from Pixabay")
 
 I'm working at a translation services provider as a project manager. Due to my... characteristics... I quickly was given 
 technical translation projects to manage after I joined the company years ago. "Technical", meaning they include 
@@ -13,5 +13,3 @@ to take shape and the sleep was starting to be enough to be able to do something
 and then Mimmit koodaa entered my life.
 
 [Click here](diary-014.html) to read my thoughts about this course.
-
-* Image is offered free with no attribution required at Pixabay.
