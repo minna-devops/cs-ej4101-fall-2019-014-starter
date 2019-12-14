@@ -1,4 +1,4 @@
-# Thoughts
+# My tiny website
 
 ## What lead me to this course?
 
