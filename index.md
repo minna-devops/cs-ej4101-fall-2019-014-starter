@@ -1,6 +1,8 @@
-# About me
+# My tiny website
 
-Hi there! And welcome to my little website created for Introduction to DevOps course at Aalto University. 
+## About me
+
+![DevOps image by Dirk Wouters from Pixabay](devops-image.png)Hi there! And welcome to my little website created for Introduction to DevOps course at Aalto University. 
 I found the course through FiTech stand at Mimmit koodaa launch event. I stopped to talk to the nice people there and 
 after mentioning I'm currently working as a project manager, I was recommended this course.
 
@@ -11,3 +13,5 @@ translating software files and also because I use a lot of client-specific tools
 Currently, however, I'm on parental leave taking care of my 1.5-year-old girl. Slowly but surely the days were starting 
 to take shape and the sleep was starting to be enough to be able to do something else with my time other than childcare
 and then Mimmit koodaa entered my life.
+
+[Click here](diary-014.html) to read my thoughts about this course.
