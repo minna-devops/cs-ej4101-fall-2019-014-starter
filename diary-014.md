@@ -17,4 +17,16 @@ I'm currently working as a PM). Little did I know it was bigger than that; it's 
 
 ## What I learned?
 
+In my translation projects I'd already got to experience some Continuous Delivery in the localization step of a 
+software project. Mostly CD had been a synonym for unfinished source files and dummy text - cryptic content to 
+translate. After taking this course, CD is not a curse word to me anymore because the whole approach to software 
+development makes a lot of sense.
 
+Automation is a very interesting topic as a whole, and I think I'll be looking more into it. I'm especially curious 
+about the testing step. 
+
+The most challenging part was probably using the GitHub pages' static site generator and a theme made by someone else. 
+I enjoy having better control over what things look like..! Now I was left wondering "why is this happening?!" but 
+stopped myself from digging deeper -- for now -- because it's a little out of scope for this project.
+
+[Back to front page](https://aaltomcc.github.io/cs-ej4101-fall-2019-014-starter/)
