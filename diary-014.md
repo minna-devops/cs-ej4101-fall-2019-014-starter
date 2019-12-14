@@ -8,7 +8,7 @@ with computers and it's a world I'm drawn to. For a long time I've
 agonized with trying to figure out what else a person with my background (and accumulated skills and 
 knowledge) could do. Like for many women, I suppose, staying at home with a child, very much detached from the 
 everyday work life, started a little ball rolling: what do I want to do when I "grow up"? Now I would, in a way, 
-finally have some time (albeit late at night and with less than enough sleep :sweat_smile: ) to really think about that!
+finally have some time (albeit late at night and with less than enough sleep) to really think about that!
 
 This is where Mimmit koodaa steps in. First I participated in some interesting workshops (about React and Clojure) and 
 then attended the autumn 2019 launch event. At FiTech booth I chatted with the nice people there and this course was 
