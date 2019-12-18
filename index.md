@@ -2,7 +2,7 @@
 
 Hi there! And welcome to my tiny website created for Introduction to DevOps course at Aalto University. 
 
-![DevOps cycle](devops-image.png "Image by Dirk Wouters from Pixabay")
+![DevOps cycle](devops-image.png "Image by Dirk Wouters from Pixabay, no attribution required though")
 
 I'm working at a translation services provider as a project manager. Due to my... characteristics... I quickly was given 
 technical translation projects to manage after I joined the company years ago. "Technical", meaning they include 
